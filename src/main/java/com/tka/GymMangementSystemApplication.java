@@ -1,0 +1,14 @@
+package com.tka;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class GymMangementSystemApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(GymMangementSystemApplication.class, args);
+		System.err.println("*********Wel-Come*************");
+	}
+
+}
