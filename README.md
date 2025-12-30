@@ -1,152 +1,113 @@
- Gym Management System
+# Gym Management System
 
-   A Java Spring Boot based Gym Management System designed to manage gym operations like members, staff, attendance, payments, and reports efficiently.
+A Java **Spring Boot** based Gym Management System designed to manage gym operations like members, staff, attendance, payments, and reports efficiently.
 
-Project Overview
+# Project Overview
 
 This project helps gym admins to:
 
-Manage gym members and staff
+- Manage gym members and staff
 
-Track attendance
+- Track attendance
 
-Handle payments and salaries
+- Handle payments and salaries
 
-Generate reports
+- Generate reports
 
-Maintain records in a structured way
+- Maintain records in a structured way
 
-Built using Java Full Stack technologies.
+- Built using Java Full Stack technologies.
 
-🛠️ Technologies Used
+# Technologies Used
 
-Backend: Java, Spring Boot
+**Backend:** Java, Spring Boot
 
-Frontend: JSP, HTML, CSS
+**Frontend:** JSP, HTML, CSS
 
-Database: MySQL
+**Database:** MySQL
 
-ORM: Hibernate / JPA
+**ORM:** Hibernate / JPA
 
-Build Tool: Maven
+**Build Tool:** Maven
 
-Server: Apache Tomcat
+**Server:** Apache Tomcat
 
-IDE: Spring Tool Suite (STS) / Eclipse
+**IDE:** Spring Tool Suite (STS) / Eclipse
 
-✨ Features
-👤 Admin
+# Features
+**Admin**
 
 Admin Login & Logout
 
 Dashboard access
 
-🧑‍🤝‍🧑 Members
+**Members**
 
-Add / Update / View Members
+ - Add Member
+ - Update Member
+ - View Members
 
-Member Attendance
+ - Member Attendance
 
-Member Payments
+ - Member Payments
 
-Membership Management
+ - Membership Management
 
-Attendance & Payment Reports
+ - Attendance & Payment Reports
 
-👨‍🏫 Staff
+**Staff**
 
-Add / Update / View Staff
+ - Add Staff
+ - Update Staff
+ -  View Staffs
 
-Staff Attendance
+ - Staff Attendance
 
-Staff Salary Management
+ - Staff Salary Management
 
-Staff Attendance & Salary Reports
+ - Staff Attendance & Salary Reports
 
-📊 Reports
+**Reports**
 
-Member Attendance Report
+- Member Attendance Report
 
-Member Payment Report
+- Member Payment Report
 
-Staff Attendance Report
+- Staff Attendance Report
 
-Staff Salary Report
+- Staff Salary Report
 
-📂 Project Structure
-GYMManagementSystem
-│── src/main/java
-│   ├── controller
-│   ├── dao
-│   ├── model
-│   ├── service
-│── src/main/resources
-│   ├── static
-│   ├── application.properties
-│── src/main/webapp
-│   ├── css
-│   ├── view (JSP Pages)
-│── pom.xml
 
-⚙️ Setup Instructions
+**Setup Instructions**
 
 Clone the repository
 
 git clone https://github.com/Archana0126/Gym-Management-System-Project.git
 
 
-Import project
-
-Open STS / Eclipse
-
-Import as Existing Maven Project
-
-Configure Database
-
-Create MySQL database
-
-Update application.properties
-
-spring.datasource.url=jdbc:mysql://localhost:3306/gymmanagement
-spring.datasource.username=root
-spring.datasource.password=yourpassword
-
-
-Run the project
-
-Run GymMangementSystemApplication.java
-
-Open browser:
+**Open browser:**
 
 http://localhost:8080/
 
-🔐 Login Credentials (Sample)
-Username: admin
-Password: admin
+Login Credentials (Sample)
+Username: Ram
+Password: 143
 
+**Future Enhancements**
 
-(Change as per database)
+- Role-based access (Admin / Trainer)
 
-📸 Screenshots
+- Online payment integration
 
-(Add screenshots of Login, Dashboard, Reports here)
+- Email & SMS notifications
 
-🚀 Future Enhancements
+- Better UI using Bootstrap
 
-Role-based access (Admin / Trainer)
+ - REST API version
 
-Online payment integration
-
-Email & SMS notifications
-
-Better UI using Bootstrap
-
-REST API version
-
-👩‍💻 Developed By
+ **Developed By**
 
 Archana Gurav
 Java Full Stack Developer
-📧 Email: archanagurav2003@gmail.com
-
-🔗 GitHub: https://github.com/Archana0126
+ Email: archanagurav2003@gmail.com
+ GitHub: https://github.com/Archana0126
