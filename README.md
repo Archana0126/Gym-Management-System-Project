@@ -1,8 +1,8 @@
-🏋️ Gym Management System
+ Gym Management System
 
-A Java Spring Boot based Gym Management System designed to manage gym operations like members, staff, attendance, payments, and reports efficiently.
+   A Java Spring Boot based Gym Management System designed to manage gym operations like members, staff, attendance, payments, and reports efficiently.
 
-📌 Project Overview
+Project Overview
 
 This project helps gym admins to:
 
